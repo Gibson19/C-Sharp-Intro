@@ -18,6 +18,17 @@ namespace c_sharp_intro
            
             string userName = Console.ReadLine();
             Console.WriteLine("You have entered: "+userName);
+
+
+            Console.WriteLine( "makeuppercase".ToUpper() ); // Convert to uppercase...
+            Console.WriteLine( "MAKEMELOWERCASE".ToUpper() ); // Convert to lowercase...
+
+            // Substring takes two arguements : 1) Starting character position 2) Number of characters for the string.
+            Console.WriteLine( "ABCDEFGHIJKLMNOPQRSTUVWXYZ".Substring( 3 , ) );
+
+
+
+
         }   
 
 
