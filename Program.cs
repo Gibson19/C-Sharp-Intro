@@ -11,6 +11,15 @@ namespace c_sharp_intro
             string myName = "Gibson Patterson";
             
             Console.WriteLine("Hello, " + myName);
-        }
+
+            Console.WriteLine("Please enter your name...");
+
+            //Assign variable 'username' to a value entered by the user.
+           
+            string userName = Console.ReadLine();
+            Console.WriteLine("You have entered: "+userName);
+        }   
+
+
     }
 }
