@@ -6,7 +6,11 @@ namespace c_sharp_intro
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //throw slash mark the beginning of a single line comment
+            //We are assigning a string value to a variable
+            string myName = "Gibson Patterson";
+            
+            Console.WriteLine("Hello, " + myName);
         }
     }
 }

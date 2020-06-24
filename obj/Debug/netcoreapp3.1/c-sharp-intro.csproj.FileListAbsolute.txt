@@ -1,0 +1,12 @@
+/Users/Projects/c-sharp-intro/bin/Debug/netcoreapp3.1/c-sharp-intro.deps.json
+/Users/Projects/c-sharp-intro/bin/Debug/netcoreapp3.1/c-sharp-intro.runtimeconfig.json
+/Users/Projects/c-sharp-intro/bin/Debug/netcoreapp3.1/c-sharp-intro.runtimeconfig.dev.json
+/Users/Projects/c-sharp-intro/bin/Debug/netcoreapp3.1/c-sharp-intro.dll
+/Users/Projects/c-sharp-intro/bin/Debug/netcoreapp3.1/c-sharp-intro.pdb
+/Users/Projects/c-sharp-intro/obj/Debug/netcoreapp3.1/c-sharp-intro.csprojAssemblyReference.cache
+/Users/Projects/c-sharp-intro/obj/Debug/netcoreapp3.1/c-sharp-intro.AssemblyInfoInputs.cache
+/Users/Projects/c-sharp-intro/obj/Debug/netcoreapp3.1/c-sharp-intro.AssemblyInfo.cs
+/Users/Projects/c-sharp-intro/obj/Debug/netcoreapp3.1/c-sharp-intro.csproj.CoreCompileInputs.cache
+/Users/Projects/c-sharp-intro/obj/Debug/netcoreapp3.1/c-sharp-intro.dll
+/Users/Projects/c-sharp-intro/obj/Debug/netcoreapp3.1/c-sharp-intro.pdb
+/Users/Projects/c-sharp-intro/obj/Debug/netcoreapp3.1/c-sharp-intro.genruntimeconfig.cache
