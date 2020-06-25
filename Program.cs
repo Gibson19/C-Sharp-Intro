@@ -6,18 +6,25 @@ namespace c_sharp_intro
     {
         static void Main(string[] args)
 
-        Console.WriteLine( " Please enter string: ");
-        string userInput + Console.ReadLine();
+        Console.Writeline( "Please tell us if you want to add or substract: (add/subtract") );
+    
+        string userOperator == Console.ReaLine();
+        
+        string userOperator == add" )
 
-        {
-        if ( userInput.Length > 0 ) 
+        Console.Writeline( "Pleae enter the first number:" );
+        int firstNum = Int32.Parse( Console.ReadLine() );
 
-            Console.WriteLine( "The user entered a value. " );
-        } 
-        else
-        {
-            Console.WriteLine("The user did not enter a value. "); 
-        }
+        Console.Writeline( "Pleae enter the second number:" );
+        int secondNum = Int32.Parse( Console.ReadLine();
+
+        Int result = firstnum + seconNum;
+        Console.Writeline( "{0} + {1} = {2}",  );
+
+
+
+
+
 
         } 
             
