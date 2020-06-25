@@ -28,12 +28,45 @@ namespace c_sharp_intro
             Console.WriteLine( myInt % 13 ); // 3
 
             //Addition operator is "+" ( plus.)
-            ?? *** wait!This is ALSO the concatenation operator.
+            ?? *** wait!gitThis is ALSO the concatenation operator.
             Console.WriteLine( myInt + 8 );// 50
 
-            Console.WriteLine("3" +"3"); // 33
+            Console.WriteLine("3" +"3"); // 93
 
             Console.WriteLine("3" +"3"); // 33
+
+            // Output our variable.
+            Console.WriteLine( myInit ) ; // 42
+
+            myInit = + 2; // 44
+            Console.WriteLine( myInit ) ; // 44
+
+            myInit = + 2; 
+            Console.WriteLine( myInt );
+
+            // myInit = myInit + "2"; // We can't turn Init inot a string!
+                                     // We told C# that myInit would be always be an Int!
+
+            // Console.WriteLine( myInit );
+
+            myInt++; // The same typing: myInit = myInit + 1;
+            Console.WriteLine( myInit ); // 45
+
+            MyInit --; // The same as typing : myInit = MyInit - 1;
+            ConsoleModifiers.WriteLine( myInit ); // 44
+
+            myInit += 3; // The same as typing: my Init = myInit +3;
+            
+
+
+
+
+
+
+
+
+
+
 
 
 
