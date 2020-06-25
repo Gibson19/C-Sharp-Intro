@@ -41,6 +41,16 @@ namespace c_sharp_intro
             Console.WriteLine( 5 >= 5 ); // False.
             Console.WriteLine( 10 > 5 ); // False.
 
+            // NOT equal to " check.
+            Console.WriteLine( false != false ); // False.
+            Console.WriteLine( true != false ); // True.
+            Console.WriteLine( 5 != 5 ); // False.
+            Console.WriteLine( 5 != 10 ); // True.
+
+
+
+
+
 
 
 
