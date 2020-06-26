@@ -1,27 +1,52 @@
 ﻿using System;
 
 namespace c_sharp_intro
-
-class Program
 {
-    
-     static void Main(string[] args)
-        {
-            Console.WriteLine( "Enter a number:" );
-           int userInt = Int.Parse( Console.ReadLine() );
-           if ( userInt > 5 )
-           {
-               Console.WriteLine( "Greater than 5." );
-           }
-           else if ( userInt > 10 )
-           {
-               Console.WriteLine( "Greater than 10." );
-           }
-           else if ( userInt < 0 )
-           {
-               Console.WriteLine( "A negative number." );
-           }
-           else
-           {
-               Console.WriteLine( "Number is between 1 and 4." );
+    class Program
+    {
+        static void Main(string[] args)
+       {
+            // Prompt the user.
+            Console.WriteLine( "Please type: (add/subtract/exit)" );
+            string command; // declare a variable
+            
+            
+            // Accept commands.
+            while( ( command = Console.ReadLine() ) != "exit" )
+            {
+                Int result;
+                if ( command == "add")
+
+                
+                Console.WriteLine( "Enter first number to add: ");
+                int firstNum = Int.Parse( Console.ReadLine()  );
+                Console.WriteLine( "Enter first number to add: ");
+                int secondNum = Int.Parse( Console.ReadLine() );
+                result = Addition( firstNum, secondNum ); 
+            
+            static int Addition( int num1, Int num2 );
+
+
+            {
+                return num1 + num2;
+            }        
+
+
             }
+
+            {
+
+
+
+       }                    
+
+
+
+}
+
+
+
+
+    
+}
+    
